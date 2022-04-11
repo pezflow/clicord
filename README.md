@@ -6,7 +6,7 @@ CLI for discord using rich and discord.py
 2. edit settings.json and add your token, channel id and guild id
 3. run clicord.py
 
-#help
+# help
 1. To get channel and server id enable developer mode in advanced settings, right click server and channel and copy ID
 2. To get your token see <a href="https://www.youtube.com/watch?v=xuB1WQVM3R8">here</a>
 
