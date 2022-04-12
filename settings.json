@@ -1,9 +1,6 @@
 {
     "token": "TOKEN HERE",
-    "guild_id": 0,
+    "is_a_bot_token": false,
     "channel_id": 0,
-    "accent_color": "blue",
-    "username_color": "purple",
-    "panel_title_color": "purple",
-    "text_color": "white"
+    "theme": "../themes/purple.json"
 }
